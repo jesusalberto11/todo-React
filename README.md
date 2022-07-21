@@ -31,15 +31,11 @@ This is a ToDo App for smartphones, created using:
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/jesusalberto11/todo-React/blob/main/assets/app-img-1.jpg" alt="App_Image_1" width="150" height="auto" />
-</div>
-
-<div align="center"> 
-  <img src="https://github.com/jesusalberto11/todo-React/blob/main/assets/app-img-2.jpg" alt="App_Image_2" width="150" height="auto" />  
-</div>
-
-<div align="center"> 
-  <img src="https://github.com/jesusalberto11/todo-React/blob/main/assets/app-img-3.jpg" alt="App_Image_3" width="150" height="auto"/>
+  <img src="https://github.com/jesusalberto11/todo-React/blob/main/assets/app-img-1.jpg" alt="App_Image_1" width="200" height="auto" />
+  
+  <img src="https://github.com/jesusalberto11/todo-React/blob/main/assets/app-img-2.jpg" alt="App_Image_2" width="200" height="auto" />  
+  
+  <img src="https://github.com/jesusalberto11/todo-React/blob/main/assets/app-img-3.jpg" alt="App_Image_3" width="200" height="auto"/>
 </div>
 
 <!-- TechStack -->
