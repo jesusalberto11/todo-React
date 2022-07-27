@@ -24,7 +24,7 @@
 This is a ToDo App for smartphones, created using:
 
 <li><a href="https://reactnative.dev/">React Native</a></li>
-<li><a href="https://v5.reactrouter.com/native/guides/quick-start">React Native Router</a></li>
+<li><a href="https://reactnavigation.org/">React Natigation</a></li>
 <li><a href="https://docs.expo.dev/">Expo CLI</a></li>
 
 <!-- Screenshots -->
@@ -41,8 +41,8 @@ This is a ToDo App for smartphones, created using:
 <!-- TechStack -->
 ## :space_invader: Tech Stack
 
-<li><a href="https://reactnative.dev/">React Native/a></li>
-<li><a href="https://v5.reactrouter.com/native/guides/quick-start">React Native Router</a></li>
+<li><a href="https://reactnative.dev/">React Native</a></li>
+<li><a href="https://reactnavigation.org/">React Natigation</a></li>
 <li><a href="https://docs.expo.dev/">Expo CLI</a></li>
 
 <!-- Features -->
